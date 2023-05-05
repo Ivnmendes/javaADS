@@ -23,7 +23,7 @@ public class FormaDePagamento {
                     System.out.printf("O valor a ser pago é de R$%.2f", valor);
                     break;
                 default:
-                    System.out.println("Valor Inválido!");
+                    System.out.println("Não é possível realizar a compra!");
                     break;
             }
             System.out.println("\n");
