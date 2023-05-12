@@ -1,4 +1,4 @@
-package g1.aula.extra06abril;
+package g1.aula06abril;
 
 /**
  *
